@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='z3cform.locationwidget',
-    version='1.1',
+    version='1.1.0',
     description="GMaps Widget for string fields",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
