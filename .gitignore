@@ -5,21 +5,30 @@
 *.py?
 *.swp
 # dirs
+
+# Distribution / packaging
 bin/
-buildout-cache/
+build/
 develop-eggs/
+dist/
 eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+buildout-cache/
 htmlcov/
 include/
-lib/
 local/
 node_modules/
-parts/
 dist/*
 test.plone_addon/
-var/
 # files
-.installed.cfg
 .mr.developer.cfg
 lib64
 log.html

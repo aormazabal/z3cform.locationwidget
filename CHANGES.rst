@@ -2,8 +2,7 @@ Changelog
 =========
 
 
-1.0a1 (unreleased)
+1.1 (released)
 ------------------
 
-- Initial release.
-  []
+- Initial release
