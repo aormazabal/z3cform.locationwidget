@@ -1,0 +1,6 @@
+[report]
+include =
+    src/z3cform/*
+omit =
+    */test*
+    */upgrades/*
